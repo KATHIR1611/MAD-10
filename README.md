@@ -87,8 +87,8 @@ Option.xml
 
 ### OUTPUT:
 
-![]()
-![]()
+![](https://github.com/KATHIR1611/MAD-10/blob/main/ui%201.png)
+![](https://github.com/KATHIR1611/MAD-10/blob/main/ui%202.png)
 
 ### RESULT:
 Thus, a Simple Android Application to create aN option menu to display menu items using Android Studio is developed and executed successfully.
