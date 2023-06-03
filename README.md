@@ -1,4 +1,4 @@
-# Ex.No:10 Develop an Android Application to create a option Menu to Display Menu Items using Android Studio.
+# Ex.No:10 Develop an Android Application to create a option Menu to Display Menu Items using Android Studio
 
 ### AIM:
 To create an option menu to display menu items using Android Studio.
@@ -29,7 +29,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number :212221220026
 
-Activity_main.xml
+activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -51,7 +51,7 @@ Activity_main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ```
-Main_activity.java
+MainActivity.java
 ```
 package com.example.menuoption;
 
